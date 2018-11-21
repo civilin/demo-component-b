@@ -6,7 +6,7 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-This antora demo is now generated from my GitHub repos.
+This antora demo is now generated from my personal but public GitHub repositories.
 
 This is the automatic start page for version *{page-component-version}* of Component B.
 
