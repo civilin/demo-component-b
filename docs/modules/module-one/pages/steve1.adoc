@@ -15,3 +15,4 @@ Welcome to my first custom page for Antora.
 * Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis.
 
 I think I'm going to like Antora more than Jekyll and Hugo. That's saying something.
+image::sv.jpeg[Sierra Vista]
