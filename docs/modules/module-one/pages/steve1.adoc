@@ -13,3 +13,5 @@ Welcome to my first custom page for Antora.
 * Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas sed diam eget risus varius blandit sit amet non magna. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere consectetur est at lobortis.
 
 * Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis.
+
+I think I'm going to like Antora more than Jekyll and Hugo. That's saying something.
