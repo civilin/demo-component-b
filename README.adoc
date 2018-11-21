@@ -7,8 +7,7 @@
 :uri-site-readme: {uri-group}/demo-site/blob/master/README.adoc
 :uri-opendevise: https://opendevise.com
 
-Component B is an example of a documentation component.
-It is used by the Antora Demo site.
+Component B is a documentation component used by the Antora Demo site.
 The playbook and instructions for the Demo site are located in the {uri-site-readme}[Demo site playbook project].
 
 == Resources
