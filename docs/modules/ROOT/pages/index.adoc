@@ -1,4 +1,4 @@
-= Welcome to Steve's Component B!
+= Welcome to Steve's Antora Site
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
@@ -6,12 +6,10 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-This antora demo is now generated from my personal but public GitHub repositories.
-
-This is the automatic start page for version *{page-component-version}* of Component B.
+This antora demo is now generated from my personal but public GitHub repositories. This is the start page for version *{page-component-version}* of *Component B*.
 
 Component B is one of two documentation components in the Antora Demo.
-The other docs component, Component A, can be accessed via the component selector menu (aka component drawer) at the bottom of the menu on the left side of the page.
+The other docs component, Component A, can be accessed via the component selector menu (aka component drawer) at the bottom of the menu on the left side of the page. I added a custom component of my own, for *recipes*. 
 
 == Page source
 
